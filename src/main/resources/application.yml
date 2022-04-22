@@ -19,13 +19,5 @@ spring:
     driverClassName: org.h2.Driver
 
   data:
-    mongodb:
-      database: test
-      port: 33333
     rest:
       base-path: /api/test
-
-  mongodb:
-    embedded:
-      version: 4.0.21
-      features: NO_HTTP_INTERFACE_ARG
