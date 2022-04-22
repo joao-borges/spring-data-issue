@@ -46,5 +46,4 @@ sh.exe.stackdump
 *.*~
 *~
 .merge_file*
-.h2*
-*.zip
+h2-db/**
